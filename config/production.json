@@ -1,0 +1,5 @@
+{
+    "mongoURI":"mongodb+srv://anshi_a2:hVVrbj07hPxvwGgQ@infobook.dqgsa.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret":"secret"
+}
+
